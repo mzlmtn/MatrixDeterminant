@@ -1,0 +1,13 @@
+D:\YAZILIMLAR\C#\Matrix Determinant\bin\Debug\netcoreapp3.1\Matrix Determinant.exe
+D:\YAZILIMLAR\C#\Matrix Determinant\bin\Debug\netcoreapp3.1\Matrix Determinant.deps.json
+D:\YAZILIMLAR\C#\Matrix Determinant\bin\Debug\netcoreapp3.1\Matrix Determinant.runtimeconfig.json
+D:\YAZILIMLAR\C#\Matrix Determinant\bin\Debug\netcoreapp3.1\Matrix Determinant.runtimeconfig.dev.json
+D:\YAZILIMLAR\C#\Matrix Determinant\bin\Debug\netcoreapp3.1\Matrix Determinant.dll
+D:\YAZILIMLAR\C#\Matrix Determinant\bin\Debug\netcoreapp3.1\Matrix Determinant.pdb
+D:\YAZILIMLAR\C#\Matrix Determinant\obj\Debug\netcoreapp3.1\Matrix Determinant.csprojAssemblyReference.cache
+D:\YAZILIMLAR\C#\Matrix Determinant\obj\Debug\netcoreapp3.1\Matrix Determinant.AssemblyInfoInputs.cache
+D:\YAZILIMLAR\C#\Matrix Determinant\obj\Debug\netcoreapp3.1\Matrix Determinant.AssemblyInfo.cs
+D:\YAZILIMLAR\C#\Matrix Determinant\obj\Debug\netcoreapp3.1\Matrix Determinant.csproj.CoreCompileInputs.cache
+D:\YAZILIMLAR\C#\Matrix Determinant\obj\Debug\netcoreapp3.1\Matrix Determinant.dll
+D:\YAZILIMLAR\C#\Matrix Determinant\obj\Debug\netcoreapp3.1\Matrix Determinant.pdb
+D:\YAZILIMLAR\C#\Matrix Determinant\obj\Debug\netcoreapp3.1\Matrix Determinant.genruntimeconfig.cache
